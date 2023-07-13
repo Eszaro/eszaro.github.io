@@ -1,0 +1,10 @@
+@charset "utf-8";
+.unordered_lists {
+    float: none;
+    color: #FF9015;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: circle;
+}

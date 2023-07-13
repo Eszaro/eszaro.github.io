@@ -1,0 +1,20 @@
+@charset "utf-8";
+.nav_bar {
+    color: #004A98;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    border: thin inset #FF9015;
+    background-color: #FF9015;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    text-shadow: 0 0;
+    text-transform: none;
+    -webkit-box-shadow: inset 2px 2px #FF9015;
+    box-shadow: inset 2px 2px #FF9015;
+    font-weight: bold;
+    text-align: center;
+   
+}
